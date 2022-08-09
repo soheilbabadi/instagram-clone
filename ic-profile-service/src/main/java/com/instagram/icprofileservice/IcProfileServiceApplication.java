@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class IcProfileServiceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(IcProfileServiceApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(IcProfileServiceApplication.class, args);
+    }
 
 }

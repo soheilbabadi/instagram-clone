@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class IcChatServiceApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(IcChatServiceApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(IcChatServiceApplication.class, args);
+    }
 
 }
